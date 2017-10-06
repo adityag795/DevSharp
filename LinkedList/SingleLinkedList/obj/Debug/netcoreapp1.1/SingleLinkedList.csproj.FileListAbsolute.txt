@@ -1,0 +1,9 @@
+C:\Users\Aditya\Documents\DevSharp\LinkedList\SingleLinkedList\bin\Debug\netcoreapp1.1\SingleLinkedList.deps.json
+C:\Users\Aditya\Documents\DevSharp\LinkedList\SingleLinkedList\bin\Debug\netcoreapp1.1\SingleLinkedList.runtimeconfig.json
+C:\Users\Aditya\Documents\DevSharp\LinkedList\SingleLinkedList\bin\Debug\netcoreapp1.1\SingleLinkedList.runtimeconfig.dev.json
+C:\Users\Aditya\Documents\DevSharp\LinkedList\SingleLinkedList\bin\Debug\netcoreapp1.1\SingleLinkedList.dll
+C:\Users\Aditya\Documents\DevSharp\LinkedList\SingleLinkedList\bin\Debug\netcoreapp1.1\SingleLinkedList.pdb
+C:\Users\Aditya\Documents\DevSharp\LinkedList\SingleLinkedList\obj\Debug\netcoreapp1.1\SingleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Documents\DevSharp\LinkedList\SingleLinkedList\obj\Debug\netcoreapp1.1\SingleLinkedList.AssemblyInfo.cs
+C:\Users\Aditya\Documents\DevSharp\LinkedList\SingleLinkedList\obj\Debug\netcoreapp1.1\SingleLinkedList.dll
+C:\Users\Aditya\Documents\DevSharp\LinkedList\SingleLinkedList\obj\Debug\netcoreapp1.1\SingleLinkedList.pdb
