@@ -47,6 +47,7 @@ public class LinkedList
 			curr = curr.next; 
 
 		curr.next = newNode; 
+		count++; 
 	}
 
 	public void print() 
