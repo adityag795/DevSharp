@@ -2,7 +2,7 @@ using System;
 
 public class LinkedList 
 {
-	private class Node 
+	class Node 
 	{ 
 		internal int value; 
 		internal Node next; 
