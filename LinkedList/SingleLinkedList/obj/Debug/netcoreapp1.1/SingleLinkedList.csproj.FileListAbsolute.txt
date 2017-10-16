@@ -7,3 +7,4 @@ C:\Users\Aditya\Documents\DevSharp\LinkedList\SingleLinkedList\obj\Debug\netcore
 C:\Users\Aditya\Documents\DevSharp\LinkedList\SingleLinkedList\obj\Debug\netcoreapp1.1\SingleLinkedList.AssemblyInfo.cs
 C:\Users\Aditya\Documents\DevSharp\LinkedList\SingleLinkedList\obj\Debug\netcoreapp1.1\SingleLinkedList.dll
 C:\Users\Aditya\Documents\DevSharp\LinkedList\SingleLinkedList\obj\Debug\netcoreapp1.1\SingleLinkedList.pdb
+C:\Users\Aditya\Documents\DevSharp\LinkedList\SingleLinkedList\obj\Debug\netcoreapp1.1\SingleLinkedList.AssemblyInfoInputs.cache

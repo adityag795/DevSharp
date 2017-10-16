@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
-      "singlelinkedlist/1.0.0": {
+      "SingleLinkedList/1.0.0": {
         "runtime": {
           "SingleLinkedList.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "singlelinkedlist/1.0.0": {
+    "SingleLinkedList/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
