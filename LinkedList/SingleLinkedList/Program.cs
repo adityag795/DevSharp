@@ -32,7 +32,7 @@ namespace SingleLinkedList
 
             while (true)
             {
-                Console.WriteLine("\nEnter your choice: ");
+                Console.Write("\nEnter your choice: ");
                 choice = Convert.ToInt32(Console.ReadLine());
 
                 if (choice == 19)
@@ -47,17 +47,17 @@ namespace SingleLinkedList
                         list.CountNodes();
                         break;
                     case 3: 
-                        Console.WriteLine("Enter the element to be searched: ");
+                        Console.Write("Enter the element to be searched: ");
                         data = Convert.ToInt32(Console.ReadLine());
                         list.Search(data);
                         break;
                     case 4:
-                        Console.WriteLine("Enter the element to insert: ");
+                        Console.Write("Enter the element to insert: ");
                         data = Convert.ToInt32(Console.ReadLine());
                         list.InsertInBeginning(data);
                         break;
                     case 5:
-                        Console.WriteLine("Enter the element to insert: ");
+                        Console.Write("Enter the element to insert: ");
                         data = Convert.ToInt32(Console.ReadLine());
                         list.InsertAtEnd(data);
                         break;
@@ -100,7 +100,7 @@ namespace SingleLinkedList
                         Console.WriteLine("Please enter right choice.");
                         break;
                 }
-                Console.WriteLine();
+                //Console.WriteLine();
             }
             Console.WriteLine(value: "Exiting");
         }

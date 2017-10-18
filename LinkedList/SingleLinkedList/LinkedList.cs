@@ -85,7 +85,7 @@ namespace SingleLinkedList
                 return;
             }
             
-            while(p != null)
+            while(p.link != null)
                 p = p.link;
 
             p.link = temp;
@@ -262,8 +262,6 @@ namespace SingleLinkedList
             }
             start = prev;
         }
-
-        
 
     }
 }
