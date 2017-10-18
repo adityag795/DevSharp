@@ -24,7 +24,7 @@ namespace SingleLinkedList
             p = start;
             while(p != null)
             {
-                Console.WriteLine(p.info + " ");
+                Console.Write(p.info + " ");
                 p = p.link;
             }
             Console.WriteLine();
@@ -39,7 +39,6 @@ namespace SingleLinkedList
                 count++;
                 p = p.link;
             }
-
             Console.WriteLine("Number of nodes : " + count);
         }
 
@@ -54,6 +53,7 @@ namespace SingleLinkedList
                 position++;
                 p = p.link;
             }
+
             if (p == null)
             {
                 Console.WriteLine(x + " is not present in list.");
@@ -157,9 +157,7 @@ namespace SingleLinkedList
             // If insertion is at first position
             if (k == 1)
             {
-                temp = new Node(data);
-                temp.link = start;
-                start = temp;
+                InsertInBeginning(data);
                 return;
             }
 
@@ -198,6 +196,7 @@ namespace SingleLinkedList
 
         public void DeleteFirstNode()
         {
+            // zero element check
             if (start == null)
                 return;
             start = start.link;
@@ -222,6 +221,7 @@ namespace SingleLinkedList
 
         public void DeleteNode(int x)
         {
+            // Zero element test
             if (start == null)
             {
                 Console.WriteLine("List is empty.");
