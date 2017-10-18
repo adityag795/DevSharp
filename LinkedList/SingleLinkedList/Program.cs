@@ -51,9 +51,51 @@ namespace SingleLinkedList
                         data = Convert.ToInt32(Console.ReadLine());
                         list.Search(data);
                         break;
-                    // case 4:
-
-                    //     break;
+                    case 4:
+                        Console.WriteLine("Enter the element to insert: ");
+                        data = Convert.ToInt32(Console.ReadLine());
+                        list.InsertInBeginning(data);
+                        break;
+                    case 5:
+                        Console.WriteLine("Enter the element to insert: ");
+                        data = Convert.ToInt32(Console.ReadLine());
+                        list.InsertAtEnd(data);
+                        break;
+                    case 6:
+                        Console.Write("Enter the element to be inserted: ");
+                        data = Convert.ToInt32(Console.ReadLine());
+                        Console.Write("Enter the element after which to insert: ");
+                        x = Convert.ToInt32(Console.ReadLine());
+                        list.InsertAfter(data, x);
+                        break;
+                    case 7:
+                        Console.Write("Enter the element to be inserted: ");
+                        data = Convert.ToInt32(Console.ReadLine());
+                        Console.Write("Enter the element before which to insert: ");
+                        x = Convert.ToInt32(Console.ReadLine());
+                        list.InsertBefore(data,x);
+                        break;
+                    case 8:
+                        Console.Write("Enter the element to be inserted: ");
+                        data = Convert.ToInt32(Console.ReadLine());
+                        Console.Write("Enter the position at which to insert: ");
+                        k = Convert.ToInt32(Console.ReadLine());
+                        list.InsertAtPosition(data, k);
+                        break;
+                    case 9:
+                        list.DeleteFirstNode();
+                        break;
+                    case 10:
+                        list.DeleteLastNode();
+                        break;
+                    case 11:
+                        Console.Write("Enter the element to be deleted: ");
+                        data = Convert.ToInt32(Console.ReadLine());
+                        list.DeleteNode(data);
+                        break;
+                    case 12:
+                        list.ReverseList();
+                        break;
                     default: 
                         Console.WriteLine("Please enter right choice.");
                         break;
