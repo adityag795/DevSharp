@@ -1,0 +1,10 @@
+C:\Users\Aditya\Documents\DevSharp\LinkedList\DoubleLinkedList\bin\Debug\netcoreapp2.0\DoubleLinkedList.deps.json
+C:\Users\Aditya\Documents\DevSharp\LinkedList\DoubleLinkedList\bin\Debug\netcoreapp2.0\DoubleLinkedList.runtimeconfig.json
+C:\Users\Aditya\Documents\DevSharp\LinkedList\DoubleLinkedList\bin\Debug\netcoreapp2.0\DoubleLinkedList.runtimeconfig.dev.json
+C:\Users\Aditya\Documents\DevSharp\LinkedList\DoubleLinkedList\bin\Debug\netcoreapp2.0\DoubleLinkedList.dll
+C:\Users\Aditya\Documents\DevSharp\LinkedList\DoubleLinkedList\bin\Debug\netcoreapp2.0\DoubleLinkedList.pdb
+C:\Users\Aditya\Documents\DevSharp\LinkedList\DoubleLinkedList\obj\Debug\netcoreapp2.0\DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Documents\DevSharp\LinkedList\DoubleLinkedList\obj\Debug\netcoreapp2.0\DoubleLinkedList.AssemblyInfoInputs.cache
+C:\Users\Aditya\Documents\DevSharp\LinkedList\DoubleLinkedList\obj\Debug\netcoreapp2.0\DoubleLinkedList.AssemblyInfo.cs
+C:\Users\Aditya\Documents\DevSharp\LinkedList\DoubleLinkedList\obj\Debug\netcoreapp2.0\DoubleLinkedList.dll
+C:\Users\Aditya\Documents\DevSharp\LinkedList\DoubleLinkedList\obj\Debug\netcoreapp2.0\DoubleLinkedList.pdb

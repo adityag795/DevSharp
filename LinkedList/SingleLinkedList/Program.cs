@@ -96,6 +96,16 @@ namespace SingleLinkedList
                     case 12:
                         list.ReverseList();
                         break;
+                    case 13:
+                        list.BubbleSortExData();
+                        break;
+                    case 14:
+                        list.BubbleSortExLinks();
+                        break;
+                    case 15:
+                        list.MergeSort();
+                        break;
+                        
                     default: 
                         Console.WriteLine("Please enter right choice.");
                         break;
