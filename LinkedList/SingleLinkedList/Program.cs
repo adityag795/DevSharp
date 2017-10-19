@@ -105,14 +105,27 @@ namespace SingleLinkedList
                     case 15:
                         list.MergeSort();
                         break;
-                        
+                    case 16:
+                        Console.Write("Enter the element at which the cycle has to be inserted: ");
+                        data = Convert.ToInt32(Console.ReadLine());
+                        list.InsertCycle(data);
+                        break;
+                    case 17:
+                        if (list.HasCycle())
+                            Console.WriteLine("List has a cycle.");
+                        else
+                            Console.WriteLine("List does not have a cycle.");
+                        break;
+                    case 18:
+                        list.RemoveCycle();
+                        break;
                     default: 
                         Console.WriteLine("Please enter right choice.");
                         break;
                 }
                 //Console.WriteLine();
             }
-            Console.WriteLine(value: "Exiting");
+            Console.WriteLine("Exiting");
         }
     }
 }
