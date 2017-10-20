@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DoubleLinkedList
+namespace DoubleLinkedListProject
 {
     class Program
     {
