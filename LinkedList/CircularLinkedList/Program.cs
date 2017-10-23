@@ -11,19 +11,17 @@ namespace CircularLinkedListProject
             CircularLinkedList list = new CircularLinkedList();
 
             list.CreateList();
-
+            Console.WriteLine("1. Display List.");
+            Console.WriteLine("2. Insert in empty List.");
+            Console.WriteLine("3. Insert in the beginning.");
+            Console.WriteLine("4. Insert at the end.");
+            Console.WriteLine("5. Insert after a node.");
+            Console.WriteLine("6. Delete first node.");
+            Console.WriteLine("7. Delete last node.");
+            Console.WriteLine("8. Delete any node.");
+            Console.WriteLine("9. Quit.");
             while(true)
             {
-                Console.WriteLine("1. Display List.");
-                Console.WriteLine("2. Insert in empty List.");
-                Console.WriteLine("3. Insert in the beginning.");
-                Console.WriteLine("4. Insert at the end.");
-                Console.WriteLine("5. Insert after a node.");
-                Console.WriteLine("6. Delete first node.");
-                Console.WriteLine("7. Delete last node.");
-                Console.WriteLine("8. Delete any node.");
-                Console.WriteLine("9. Quit.");
-
                 Console.Write("Enter your choice: ");
                 choice = Convert.ToInt32(Console.ReadLine());
 
