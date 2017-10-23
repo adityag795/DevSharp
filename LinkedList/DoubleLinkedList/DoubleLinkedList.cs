@@ -67,7 +67,7 @@ namespace DoubleLinkedListProject
             data = Convert.ToInt32(Console.ReadLine());
             InsertInEmptyList(data);
 
-            for (i = 2; i < n; i++)
+            for (i = 2; i <= n; i++)
             {
                 Console.Write("Enter the next element to be inserted: ");
                 data = Convert.ToInt32(Console.ReadLine());

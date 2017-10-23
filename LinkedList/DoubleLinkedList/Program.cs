@@ -26,7 +26,7 @@ namespace DoubleLinkedListProject
             while (true)
             {
                 
-                Console.WriteLine("Enter your choice: ");
+                Console.Write("Enter your choice: ");
                 
                 choice = Convert.ToInt32(Console.ReadLine());
                 if (choice == 11)
