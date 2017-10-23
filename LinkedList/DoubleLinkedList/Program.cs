@@ -29,21 +29,60 @@ namespace DoubleLinkedListProject
 
                 if (choice == 11)
                     break;
-            }
 
-            switch (choice)
-            {
-                case 1: 
-                    list.DisplayList();
-                    break;
-                case 2:
-                    Console.Write("Enter the element to be inserted: ");
-                    data = Convert.ToInt32(Console.ReadLine());
-                    list.InsertInEmptyList(data);
-                    break;
-                default:
-                    System.Console.WriteLine("Please enter correct choice");
-                    break;
+                switch (choice)
+                {
+                    case 1: 
+                        list.DisplayList();
+                        break;
+                    case 2:
+                        Console.Write("Enter the element to be inserted: ");
+                        data = Convert.ToInt32(Console.ReadLine());
+                        list.InsertInEmptyList(data);
+                        break;
+                    case 3:
+                        Console.Write("Enter the element to be inserted: ");
+                        data = Convert.ToInt32(Console.ReadLine());
+                        list.InsertInBeginning(data);
+                        break;
+                    case 4:
+                        Console.Write("Enter the element to be inserted: ");
+                        data = Convert.ToInt32(Console.ReadLine());
+                        list.InsertAtEnd(data);
+                        break;
+                    case 5:
+                        Console.Write("Enter the element to be inserted: ");
+                        data = Convert.ToInt32(Console.ReadLine());
+                        Console.Write("Enter the element after which to be inserted: ");
+                        x = Convert.ToInt32(Console.ReadLine());
+                        list.InsertAfter(data,x);
+                        break;
+                    case 6:
+                        Console.Write("Enter the element to be inserted: ");
+                        data = Convert.ToInt32(Console.ReadLine());
+                        Console.Write("Enter the element before which to be inserted: ");
+                        x = Convert.ToInt32(Console.ReadLine());
+                        list.InsertBefore(data,x);
+                        break;
+                    case 7: 
+                        list.DeleteFirstNode();
+                        break;
+                    case 8:
+                        list.DeleteLastNode();
+                        break;
+                    case 9:
+                        Console.Write("Enter the element to be deleted: ");
+                        data = Convert.ToInt32(Console.ReadLine());
+                        list.DeleteNode(data);
+                        break;
+                    case 10:
+                        list.ReverseList();
+                        break;
+                    default:
+                        Console.WriteLine("Please enter correct choice");
+                        break;
+                }   
+                Console.WriteLine("Exiting.");
             }
         }
     }
