@@ -24,7 +24,7 @@ namespace DoubleLinkedListProject
             while (p != null)
             {
                 Console.Write(p.info + " ");
-                return;
+                p = p.next;
             }
             Console.WriteLine();
         }

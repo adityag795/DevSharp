@@ -11,22 +11,24 @@ namespace DoubleLinkedListProject
             DoubleLinkedList list = new DoubleLinkedList();
             list.CreateList();
 
+            Console.WriteLine("1. Display List");
+            Console.WriteLine("2. Insert in empty list");
+            Console.WriteLine("3. Insert a node in the beginning of the list.");
+            Console.WriteLine("4. Insert a node at the end of the list.");
+            Console.WriteLine("5. Insert a node after a specified node.");
+            Console.WriteLine("6. Insert a node before a specified node.");
+            Console.WriteLine("7. Delete first node.");
+            Console.WriteLine("8. Delete last node.");
+            Console.WriteLine("9. Delete any node.");
+            Console.WriteLine("10. Reverse the list.");
+            Console.WriteLine("11. Quit.");
+
             while (true)
             {
-                Console.WriteLine("1. Display List");
-                Console.WriteLine("2. Insert in empty list");
-                Console.WriteLine("3. Insert a node in the beginning of the list.");
-                Console.WriteLine("4. Insert a node at the end of the list.");
-                Console.WriteLine("5. Insert a node after a specified node.");
-                Console.WriteLine("6. Insert a node before a specified node.");
-                Console.WriteLine("7. Delete first node.");
-                Console.WriteLine("8. Delete last node.");
-                Console.WriteLine("9. Delete any node.");
-                Console.WriteLine("10. Reverse the list.");
-                Console.WriteLine("11. Quit.");
-                Console.Write("Enter your choice: ");
+                
+                Console.WriteLine("Enter your choice: ");
+                
                 choice = Convert.ToInt32(Console.ReadLine());
-
                 if (choice == 11)
                     break;
 
@@ -82,8 +84,8 @@ namespace DoubleLinkedListProject
                         Console.WriteLine("Please enter correct choice");
                         break;
                 }   
-                Console.WriteLine("Exiting.");
             }
+            Console.WriteLine("Exiting.");
         }
     }
 }
