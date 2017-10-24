@@ -91,6 +91,26 @@ namespace SingleLinkedList
             p.link = temp;
         }
 
+        public void InsertInOrder(int data)
+        {
+            Node temp = new Node(data);
+
+            /*List empty or new node to be inserted before first node */
+            if (start == null || data < start.info)
+            {
+                temp.link = start;
+                start = temp;
+                return;
+            }
+
+            Node p = start;
+            while(p.link != null && p.link.info <= data)
+                p = p.link;
+            
+            temp.link = p.link;
+            p.link = temp;
+        }
+
         public void InsertAfter(int data, int x)
         {
             Node p = start;
@@ -188,9 +208,9 @@ namespace SingleLinkedList
 
             for(i = 1; i <= n; i++)
             {
-                Console.WriteLine("Enter the element to be inserted: ");
+                Console.Write("Enter the element to be inserted: ");
                 data = Convert.ToInt32(Console.ReadLine());
-                InsertAtEnd(data);
+                InsertInOrder(data);
             }
         }
 

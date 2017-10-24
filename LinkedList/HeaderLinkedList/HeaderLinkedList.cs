@@ -127,6 +127,5 @@ namespace HeaderLinkedListProject
             }
             head = prev;
         }
-
     }
 }

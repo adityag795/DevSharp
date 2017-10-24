@@ -9,7 +9,7 @@ namespace SingleLinkedList
             int choice, data, k, x;
 
             LinkedList list = new LinkedList();
-
+            list.CreateList();
             Console.WriteLine("1. Display list.");
             Console.WriteLine("2. Count the number of nodes.");
             Console.WriteLine("3. Search for an element.");
