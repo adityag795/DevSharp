@@ -1,0 +1,10 @@
+C:\Users\Aditya\Documents\DevSharp\Stack\StackArray\bin\Debug\netcoreapp2.0\StackArray.deps.json
+C:\Users\Aditya\Documents\DevSharp\Stack\StackArray\bin\Debug\netcoreapp2.0\StackArray.runtimeconfig.json
+C:\Users\Aditya\Documents\DevSharp\Stack\StackArray\bin\Debug\netcoreapp2.0\StackArray.runtimeconfig.dev.json
+C:\Users\Aditya\Documents\DevSharp\Stack\StackArray\bin\Debug\netcoreapp2.0\StackArray.dll
+C:\Users\Aditya\Documents\DevSharp\Stack\StackArray\bin\Debug\netcoreapp2.0\StackArray.pdb
+C:\Users\Aditya\Documents\DevSharp\Stack\StackArray\obj\Debug\netcoreapp2.0\StackArray.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Documents\DevSharp\Stack\StackArray\obj\Debug\netcoreapp2.0\StackArray.AssemblyInfoInputs.cache
+C:\Users\Aditya\Documents\DevSharp\Stack\StackArray\obj\Debug\netcoreapp2.0\StackArray.AssemblyInfo.cs
+C:\Users\Aditya\Documents\DevSharp\Stack\StackArray\obj\Debug\netcoreapp2.0\StackArray.dll
+C:\Users\Aditya\Documents\DevSharp\Stack\StackArray\obj\Debug\netcoreapp2.0\StackArray.pdb
