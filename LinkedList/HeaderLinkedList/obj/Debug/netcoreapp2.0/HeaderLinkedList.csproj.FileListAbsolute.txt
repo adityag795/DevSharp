@@ -1,0 +1,10 @@
+C:\Users\Aditya\Documents\DevSharp\LinkedList\HeaderLinkedList\bin\Debug\netcoreapp2.0\HeaderLinkedList.deps.json
+C:\Users\Aditya\Documents\DevSharp\LinkedList\HeaderLinkedList\bin\Debug\netcoreapp2.0\HeaderLinkedList.runtimeconfig.json
+C:\Users\Aditya\Documents\DevSharp\LinkedList\HeaderLinkedList\bin\Debug\netcoreapp2.0\HeaderLinkedList.runtimeconfig.dev.json
+C:\Users\Aditya\Documents\DevSharp\LinkedList\HeaderLinkedList\bin\Debug\netcoreapp2.0\HeaderLinkedList.dll
+C:\Users\Aditya\Documents\DevSharp\LinkedList\HeaderLinkedList\bin\Debug\netcoreapp2.0\HeaderLinkedList.pdb
+C:\Users\Aditya\Documents\DevSharp\LinkedList\HeaderLinkedList\obj\Debug\netcoreapp2.0\HeaderLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Documents\DevSharp\LinkedList\HeaderLinkedList\obj\Debug\netcoreapp2.0\HeaderLinkedList.AssemblyInfoInputs.cache
+C:\Users\Aditya\Documents\DevSharp\LinkedList\HeaderLinkedList\obj\Debug\netcoreapp2.0\HeaderLinkedList.AssemblyInfo.cs
+C:\Users\Aditya\Documents\DevSharp\LinkedList\HeaderLinkedList\obj\Debug\netcoreapp2.0\HeaderLinkedList.dll
+C:\Users\Aditya\Documents\DevSharp\LinkedList\HeaderLinkedList\obj\Debug\netcoreapp2.0\HeaderLinkedList.pdb

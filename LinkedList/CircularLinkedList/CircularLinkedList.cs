@@ -151,5 +151,21 @@ namespace CircularLinkedListProject
                     last = p;
             }
         }
+        /*Conactenation of circular linked list */
+        public void Concatenate(CircularLinkedList list)
+        {
+            if(last == null)
+            {
+                last = list.last;
+                return;
+            }
+            if (list.last == null)
+                return;
+            
+            Node p = last.link;
+            last.link = list.last.link;
+            list.last.link = p;
+            last = list.last;
+        }
     }
 }

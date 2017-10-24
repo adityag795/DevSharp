@@ -522,6 +522,24 @@ namespace SingleLinkedList
             else
                 Console.WriteLine(x + " not present in the list.");
         }
+        //Concatenation in single linkedlist
+        public void Concatenate(LinkedList list)
+        {
+            if(start == null)
+            {
+                start = list.start;
+                return;
+            }
+
+            if(list.start == null)
+                return;
+            
+            Node p = start;
+            while(p.link != null)
+                p = p.link;
+
+            p.link = list.start;
+        }
         
     }
 }
