@@ -1,0 +1,10 @@
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueArray\bin\Debug\netcoreapp2.0\QueueArray.deps.json
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueArray\bin\Debug\netcoreapp2.0\QueueArray.runtimeconfig.json
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueArray\bin\Debug\netcoreapp2.0\QueueArray.runtimeconfig.dev.json
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueArray\bin\Debug\netcoreapp2.0\QueueArray.dll
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueArray\bin\Debug\netcoreapp2.0\QueueArray.pdb
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueArray\obj\Debug\netcoreapp2.0\QueueArray.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueArray\obj\Debug\netcoreapp2.0\QueueArray.AssemblyInfoInputs.cache
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueArray\obj\Debug\netcoreapp2.0\QueueArray.AssemblyInfo.cs
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueArray\obj\Debug\netcoreapp2.0\QueueArray.dll
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueArray\obj\Debug\netcoreapp2.0\QueueArray.pdb

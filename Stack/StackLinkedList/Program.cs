@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StackArrayProject
+namespace StackLinkedListProject
 {
     class Program
     {
@@ -8,8 +8,8 @@ namespace StackArrayProject
         {
             int choice, x;
 
-            StackA st = new StackA(8);
-            
+            StackL st = new StackL();
+
             Console.WriteLine("1. Push an element on the stack.");
             Console.WriteLine("2. Pop an element from the stack.");
             Console.WriteLine("3. Display the top element.");
@@ -28,7 +28,7 @@ namespace StackArrayProject
                 switch(choice)
                 {
                     case 1:
-                        Console.WriteLine("Enter the element to be pushed: ");
+                        Console.Write("Enter the element to be pushed: ");
                         x = Convert.ToInt32(Console.ReadLine());
                         st.Push(x);
                         break;

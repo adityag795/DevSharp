@@ -45,7 +45,7 @@ namespace StackArrayProject
             stackArray[top] = x;
         }
 
-        public int pop()
+        public int Pop()
         {
             int x;
             if (isEmpty())

@@ -1,0 +1,10 @@
+C:\Users\Aditya\Documents\DevSharp\Stack\StackLinkedList\bin\Debug\netcoreapp2.0\StackLinkedList.deps.json
+C:\Users\Aditya\Documents\DevSharp\Stack\StackLinkedList\bin\Debug\netcoreapp2.0\StackLinkedList.runtimeconfig.json
+C:\Users\Aditya\Documents\DevSharp\Stack\StackLinkedList\bin\Debug\netcoreapp2.0\StackLinkedList.runtimeconfig.dev.json
+C:\Users\Aditya\Documents\DevSharp\Stack\StackLinkedList\bin\Debug\netcoreapp2.0\StackLinkedList.dll
+C:\Users\Aditya\Documents\DevSharp\Stack\StackLinkedList\bin\Debug\netcoreapp2.0\StackLinkedList.pdb
+C:\Users\Aditya\Documents\DevSharp\Stack\StackLinkedList\obj\Debug\netcoreapp2.0\StackLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Documents\DevSharp\Stack\StackLinkedList\obj\Debug\netcoreapp2.0\StackLinkedList.AssemblyInfoInputs.cache
+C:\Users\Aditya\Documents\DevSharp\Stack\StackLinkedList\obj\Debug\netcoreapp2.0\StackLinkedList.AssemblyInfo.cs
+C:\Users\Aditya\Documents\DevSharp\Stack\StackLinkedList\obj\Debug\netcoreapp2.0\StackLinkedList.dll
+C:\Users\Aditya\Documents\DevSharp\Stack\StackLinkedList\obj\Debug\netcoreapp2.0\StackLinkedList.pdb
