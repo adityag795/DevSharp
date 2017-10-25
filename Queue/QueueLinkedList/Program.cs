@@ -1,14 +1,15 @@
 ﻿using System;
 
-namespace QueueArrayProject
+namespace QueueLinkedListProject
 {
     class Program
     {
         static void Main(string[] args)
         {
             int choice, x;
-            QueueA qu = new QueueA(8);
-            
+
+            QueueL qu = new QueueL();
+
             Console.WriteLine("1. Push an element on the queue.");
             Console.WriteLine("2. Pop an element from the queue.");
             Console.WriteLine("3. Display the top element.");

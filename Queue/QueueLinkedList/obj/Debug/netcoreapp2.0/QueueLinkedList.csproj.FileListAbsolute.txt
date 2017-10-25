@@ -1,0 +1,10 @@
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueLinkedList\bin\Debug\netcoreapp2.0\QueueLinkedList.deps.json
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueLinkedList\bin\Debug\netcoreapp2.0\QueueLinkedList.runtimeconfig.json
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueLinkedList\bin\Debug\netcoreapp2.0\QueueLinkedList.runtimeconfig.dev.json
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueLinkedList\bin\Debug\netcoreapp2.0\QueueLinkedList.dll
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueLinkedList\bin\Debug\netcoreapp2.0\QueueLinkedList.pdb
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueLinkedList\obj\Debug\netcoreapp2.0\QueueLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueLinkedList\obj\Debug\netcoreapp2.0\QueueLinkedList.AssemblyInfoInputs.cache
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueLinkedList\obj\Debug\netcoreapp2.0\QueueLinkedList.AssemblyInfo.cs
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueLinkedList\obj\Debug\netcoreapp2.0\QueueLinkedList.dll
+C:\Users\Aditya\Documents\DevSharp\Queue\QueueLinkedList\obj\Debug\netcoreapp2.0\QueueLinkedList.pdb

@@ -40,6 +40,48 @@ namespace QueueArrayProject
                 return rear - front + 1;
         }
 
-        
+        public void Insert(int x)
+        {
+            if (IsFull())
+            {
+                System.Console.WriteLine("Queue Overflow\n");
+                return;
+            }
+            if (front == -1)
+                front = 0;
+            rear = rear + 1;
+            queueArray[rear] = x;
+        }
+
+        public int Delete()
+        {
+            int x;
+            if (IsEmpty())
+                throw new System.InvalidOperationException("Queue Underflow");
+            x = queueArray[front];
+            front = front + 1;
+            return x;
+        }
+
+        public int Peek()
+        {
+            if (IsEmpty())
+                throw new System.InvalidOperationException("Queue Underflow");
+            return queueArray[front];
+        }
+
+        public void Display()
+        {
+            if (IsEmpty())
+            {
+                System.Console.WriteLine("Queue is empty.\n");
+                return;
+            }
+            System.Console.Write("Queue is: ");
+            for(int i = front; i <= rear; i++)
+                System.Console.WriteLine(queueArray[i] + " ");
+            
+            System.Console.WriteLine();
+        }
     }
 }
