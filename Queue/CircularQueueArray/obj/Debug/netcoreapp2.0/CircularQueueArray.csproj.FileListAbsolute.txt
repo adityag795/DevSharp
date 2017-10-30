@@ -1,0 +1,10 @@
+C:\Users\Aditya\Documents\DevSharp\Queue\CircularQueueArray\bin\Debug\netcoreapp2.0\CircularQueueArray.deps.json
+C:\Users\Aditya\Documents\DevSharp\Queue\CircularQueueArray\bin\Debug\netcoreapp2.0\CircularQueueArray.runtimeconfig.json
+C:\Users\Aditya\Documents\DevSharp\Queue\CircularQueueArray\bin\Debug\netcoreapp2.0\CircularQueueArray.runtimeconfig.dev.json
+C:\Users\Aditya\Documents\DevSharp\Queue\CircularQueueArray\bin\Debug\netcoreapp2.0\CircularQueueArray.dll
+C:\Users\Aditya\Documents\DevSharp\Queue\CircularQueueArray\bin\Debug\netcoreapp2.0\CircularQueueArray.pdb
+C:\Users\Aditya\Documents\DevSharp\Queue\CircularQueueArray\obj\Debug\netcoreapp2.0\CircularQueueArray.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Documents\DevSharp\Queue\CircularQueueArray\obj\Debug\netcoreapp2.0\CircularQueueArray.AssemblyInfoInputs.cache
+C:\Users\Aditya\Documents\DevSharp\Queue\CircularQueueArray\obj\Debug\netcoreapp2.0\CircularQueueArray.AssemblyInfo.cs
+C:\Users\Aditya\Documents\DevSharp\Queue\CircularQueueArray\obj\Debug\netcoreapp2.0\CircularQueueArray.dll
+C:\Users\Aditya\Documents\DevSharp\Queue\CircularQueueArray\obj\Debug\netcoreapp2.0\CircularQueueArray.pdb

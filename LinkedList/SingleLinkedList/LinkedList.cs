@@ -182,7 +182,7 @@ namespace SingleLinkedList
             }
 
             // Finding reference to the kth node
-            Node p =start;
+            Node p = start;
             for(i = 1; i <= k && p.link != null; i++)
                 p = p.link;
             
