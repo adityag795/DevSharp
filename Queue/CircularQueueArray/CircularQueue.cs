@@ -87,21 +87,21 @@ namespace CircularQueueArray
                 return;
             }
 
-            System.Console.WriteLine("Queue is: ");
+            System.Console.Write("Queue is: ");
 
             int i = front;
             if (front <= rear)
             {
                 while(i <= rear)
-                    System.Console.WriteLine(queueArray[i++] + " ");
+                    System.Console.Write(queueArray[i++] + " ");
             }
             else
             {
                 while(i <= queueArray.Length-1)
-                    System.Console.WriteLine(queueArray[i++] + " ");
+                    System.Console.Write(queueArray[i++] + " ");
                 i = 0;
                 while(i <= rear)
-                    System.Console.WriteLine(queueArray[i++] + " ");
+                    System.Console.Write(queueArray[i++] + " ");
             }
             System.Console.WriteLine();
         }

@@ -28,7 +28,7 @@ namespace CircularQueueArray
                 switch(choice)
                 {
                     case 1:
-                        Console.WriteLine("Enter the element to be pushed: ");
+                        Console.Write("Enter the element to be pushed: ");
                         x = Convert.ToInt32(Console.ReadLine());
                         qu.Insert(x);
                         break; 
