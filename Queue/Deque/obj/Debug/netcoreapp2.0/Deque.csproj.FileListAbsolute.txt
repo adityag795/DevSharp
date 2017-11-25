@@ -1,0 +1,10 @@
+C:\Users\Aditya\Documents\DevSharp\Queue\Deque\bin\Debug\netcoreapp2.0\Deque.deps.json
+C:\Users\Aditya\Documents\DevSharp\Queue\Deque\bin\Debug\netcoreapp2.0\Deque.runtimeconfig.json
+C:\Users\Aditya\Documents\DevSharp\Queue\Deque\bin\Debug\netcoreapp2.0\Deque.runtimeconfig.dev.json
+C:\Users\Aditya\Documents\DevSharp\Queue\Deque\bin\Debug\netcoreapp2.0\Deque.dll
+C:\Users\Aditya\Documents\DevSharp\Queue\Deque\bin\Debug\netcoreapp2.0\Deque.pdb
+C:\Users\Aditya\Documents\DevSharp\Queue\Deque\obj\Debug\netcoreapp2.0\Deque.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Documents\DevSharp\Queue\Deque\obj\Debug\netcoreapp2.0\Deque.AssemblyInfoInputs.cache
+C:\Users\Aditya\Documents\DevSharp\Queue\Deque\obj\Debug\netcoreapp2.0\Deque.AssemblyInfo.cs
+C:\Users\Aditya\Documents\DevSharp\Queue\Deque\obj\Debug\netcoreapp2.0\Deque.dll
+C:\Users\Aditya\Documents\DevSharp\Queue\Deque\obj\Debug\netcoreapp2.0\Deque.pdb
