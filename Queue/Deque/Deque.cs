@@ -29,12 +29,12 @@ namespace DequeProject
                 System.Console.WriteLine("Queue Overflow");
                 return;
             }
-            if ( front == -1 )
+            if (front == -1)
             {
                 front = 0;
                 rear = 0;
             }
-            else if ( front == 0)
+            else if (front == 0)
                 front = queueArray.Length - 1;
             else
                 front = front - 1;
@@ -50,7 +50,7 @@ namespace DequeProject
             }
             if (front == -1)
                 front = 0;
-            
+
             if (rear == queueArray.Length - 1)
                 rear = 0;
             else
@@ -63,15 +63,15 @@ namespace DequeProject
             int x;
             if (IsEmpty())
                 throw new System.InvalidOperationException("Queue Underflow");
-            
+
             x = queueArray[front];
-            
+
             if (front == rear)
             {
                 front = -1;
                 rear = -1;
             }
-            else if ( front == queueArray.Length - 1)
+            else if (front == queueArray.Length - 1)
                 front = 0;
             else
                 front = front + 1;
@@ -123,15 +123,15 @@ namespace DequeProject
             i = front;
             if (front <= rear)
             {
-                while ( i <= rear)
+                while (i <= rear)
                     System.Console.Write(queueArray[i++] + " ");
             }
             else
             {
-                while ( i <= queueArray.Length-1)
+                while (i <= queueArray.Length - 1)
                     System.Console.Write(queueArray[i++] + " ");
                 i = 0;
-                while (i <= rear) 
+                while (i <= rear)
                     System.Console.Write(queueArray[i++] + " ");
             }
             System.Console.WriteLine();

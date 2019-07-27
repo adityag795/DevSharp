@@ -8,3 +8,14 @@ C:\Users\Aditya\Documents\DevSharp\LinkedList\CircularLinkedList\obj\Debug\netco
 C:\Users\Aditya\Documents\DevSharp\LinkedList\CircularLinkedList\obj\Debug\netcoreapp2.0\CircularLinkedList.AssemblyInfo.cs
 C:\Users\Aditya\Documents\DevSharp\LinkedList\CircularLinkedList\obj\Debug\netcoreapp2.0\CircularLinkedList.dll
 C:\Users\Aditya\Documents\DevSharp\LinkedList\CircularLinkedList\obj\Debug\netcoreapp2.0\CircularLinkedList.pdb
+C:\Users\adity\Documents\DevSharp\LinkedList\CircularLinkedList\bin\Debug\netcoreapp2.0\CircularLinkedList.deps.json
+C:\Users\adity\Documents\DevSharp\LinkedList\CircularLinkedList\bin\Debug\netcoreapp2.0\CircularLinkedList.runtimeconfig.json
+C:\Users\adity\Documents\DevSharp\LinkedList\CircularLinkedList\bin\Debug\netcoreapp2.0\CircularLinkedList.runtimeconfig.dev.json
+C:\Users\adity\Documents\DevSharp\LinkedList\CircularLinkedList\bin\Debug\netcoreapp2.0\CircularLinkedList.dll
+C:\Users\adity\Documents\DevSharp\LinkedList\CircularLinkedList\bin\Debug\netcoreapp2.0\CircularLinkedList.pdb
+C:\Users\adity\Documents\DevSharp\LinkedList\CircularLinkedList\obj\Debug\netcoreapp2.0\CircularLinkedList.csprojAssemblyReference.cache
+C:\Users\adity\Documents\DevSharp\LinkedList\CircularLinkedList\obj\Debug\netcoreapp2.0\CircularLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\adity\Documents\DevSharp\LinkedList\CircularLinkedList\obj\Debug\netcoreapp2.0\CircularLinkedList.AssemblyInfoInputs.cache
+C:\Users\adity\Documents\DevSharp\LinkedList\CircularLinkedList\obj\Debug\netcoreapp2.0\CircularLinkedList.AssemblyInfo.cs
+C:\Users\adity\Documents\DevSharp\LinkedList\CircularLinkedList\obj\Debug\netcoreapp2.0\CircularLinkedList.dll
+C:\Users\adity\Documents\DevSharp\LinkedList\CircularLinkedList\obj\Debug\netcoreapp2.0\CircularLinkedList.pdb
